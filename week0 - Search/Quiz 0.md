@@ -12,7 +12,7 @@ Question 1
 *   BFS will sometimes, but not always, find a shorter path than DFS
 *   Both algorithms will always find paths of the same length
 
-Answer: BFS will sometimes, but not always, find a shorter path than DFS
+**Answer:** BFS will sometimes, but not always, find a shorter path than DFS
 
 Question 2
 --------------------------------------------------------------------
@@ -32,7 +32,7 @@ Question 2
 *   Could be any of the four algorithms
 *   Could not be any of the four algorithms
 
-Answer: Could only be DFS
+**Answer:** Could only be DFS
 
 Question 3
 --------------------------------------------------------------------
@@ -44,7 +44,7 @@ Question 3
 *   Depth-limited minimax can make a more optimal decision by not exploring states known to be suboptimal
 *   Depth-limited minimax is never preferable to minimax without a depth limit
 
-Answer: Depth-limited minimax can arrive at a decision more quickly because it explores fewer states
+**Answer:** Depth-limited minimax can arrive at a decision more quickly because it explores fewer states
 
 Question 4
 --------------------------------------------------------------------
@@ -55,4 +55,4 @@ Question 4
 
 **What is the value of the root node?**
 
-Answer: 5
+**Answer:** 5
