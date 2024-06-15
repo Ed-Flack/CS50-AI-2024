@@ -19,7 +19,7 @@ Question 2
 
 **Consider the below maze. Grey cells indicate walls. A search algorithm was run on this maze, and found the yellow highlighted path from point A to B. In doing so, the red highlighted cells were the states explored but that did not lead to the goal.**
 
-![Quiz 0, Question 2](./Quiz 0 - CS50's Introduction to Artificial Intelligence with Python_files/q0q2.png)
+![Quiz 0, Question 2](https://github.com/Ed-Flack/CS50-AI-2024/assets/44028291/419428d8-11bb-42fe-a098-f0e4aa72d22a)
 
 **Of the four search algorithms discussed in lecture — depth-first search, breadth-first search, greedy best-first search with Manhattan distance heuristic, and A\* search with Manhattan distance heuristic — which one (or multiple, if multiple are possible) could be the algorithm used?**
 
@@ -51,7 +51,7 @@ Question 4
 
 **Consider the Minimax tree below, where the green up arrows indicate the MAX player and red down arrows indicate the MIN player. The leaf nodes are each labelled with their value.**
 
-![Quiz 0, Question 4](./Quiz 0 - CS50's Introduction to Artificial Intelligence with Python_files/q0q4.png)
+![Quiz 0, Question 4](https://github.com/Ed-Flack/CS50-AI-2024/assets/44028291/b912d52b-367c-453d-af2c-ff66dd3dfdc7)
 
 **What is the value of the root node?**
 
