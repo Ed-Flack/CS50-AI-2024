@@ -16,8 +16,8 @@ Write an AI to generate crossword puzzles.
     ███████X████E█
     ██████████████
 
+![Crossword](https://github.com/user-attachments/assets/6653a007-8e59-465d-9e00-cda2acf81346)
 
-![Crossword](./Crossword - CS50's Introduction to Artificial Intelligence with Python_files/crossword.png)
 
 Background
 -------------------------------------------------------------------------------
